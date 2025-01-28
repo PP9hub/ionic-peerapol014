@@ -38,7 +38,7 @@
       },
     },
     components: {
-      IonPage,
+      IonPage,                                    
       IonHeader,
       IonToolbar,
       IonTitle,
